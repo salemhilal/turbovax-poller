@@ -1,0 +1,17 @@
+{
+  "name": "turbovax-poller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "poll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
